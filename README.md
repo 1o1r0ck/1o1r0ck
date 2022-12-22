@@ -34,4 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 
+###✨Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1o1r0ck)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
